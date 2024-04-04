@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343597328156",
+    "project_id": "flutter-login-af66d",
+    "storage_bucket": "flutter-login-af66d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343597328156:android:e41564c685cdcddc9fbcd9",
+        "android_client_info": {
+          "package_name": "com.example.local_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DHhLDOmteHgu7tiaWbdEzwkdQZQ14Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
